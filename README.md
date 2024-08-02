@@ -1,3 +1,3 @@
 # portfolio
-This is a portfolio project developed   
+This is a portfolio project . 
 
