@@ -1,3 +1,3 @@
 # portfolio
-This is a portfolio project developed  using Javascript
+This is a portfolio project developed  using Javasc
 
